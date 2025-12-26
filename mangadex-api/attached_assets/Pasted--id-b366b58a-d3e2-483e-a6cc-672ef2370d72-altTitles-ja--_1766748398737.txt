@@ -1,0 +1,1564 @@
+[
+  {
+    "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+    "altTitles": [
+      {
+        "ja": "レプリカ　元妻の復讐"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "09580767-3168-4b71-862b-627bc2211484",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "2a204c08-6036-4e9c-b785-dfb708e3bf53",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2022-03-05T20:45:42.000Z",
+    "description": {
+      "en": "Sumire was once bullied and cursed as \"ugly\". Without worrying about her appearance, she marries an ideal man who loves her. But one day, he cheats on another woman with a beautiful appearance and declares a divorce on her...\n\nWhat's more, the woman was her main culprit, who once bullied Sumire. Now with a new identity, Violet vows her revenge on the woman who robbed her of her man and her husband who abandoned herself. Her fierce revenge begins on the woman who changed her face, changed her name, and was tied up with her ties.",
+      "ja": "かつて「ブス」と虐められ、罵られていたすみれ。 容姿を気にせず、自分を愛してくれる理想の男性と結婚するが、彼は美しい容姿を持った別の女に浮気し、離婚してしまう…。 しかも偶然にもその女は、かつてすみれのことを虐めていた主犯、その人であった―――。 自分から男を奪った女、そして自分を捨てた旦那へ復讐を誓うすみれ。 顔を変え、名前を変え、宿縁で結ばれた女への、苛烈な復讐が始まる。"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "75e8fd7d-3e46-4f8a-8670-902d52724932",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/162557",
+      "bookWalker": "https://bookwalker.jp/series/285848/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=fj0z3b7",
+      "myAnimeList": "https://myanimelist.net/manga/189236",
+      "amazon": "https://www.amazon.co.jp/dp/B094J5RBTM",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/621699",
+      "raw": "https://mangahot.jp/site/works/t_R0018",
+      "officialEnglishTranslation": "https://mangaplaza.com/title/0303009771/"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "e4b524ab-48f4-4c91-96b9-a08b3ffdacc2",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "seinen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+        "name": {
+          "en": "Thriller"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+        "name": {
+          "en": "Psychological"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+        "name": {
+          "en": "Tragedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Repurika - Moto Tsuma no Fukushuu"
+    },
+    "updatedAt": "2025-12-05T17:01:22.000Z",
+    "version": 13,
+    "year": 2020,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "32dcf14c-dd02-4fa7-9b40-b330c395f75b",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "d9d779ee-7f38-491d-85cd-dfb78e29d802",
+    "altTitles": [
+      {
+        "ja": "せいぶつ部の田辺くん"
+      },
+      {
+        "en": "Tanabe from the Biology Club"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "4bcefe3b-0df3-4af1-8bda-84865f47aa17",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "4bcefe3b-0df3-4af1-8bda-84865f47aa17",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en",
+      "vi",
+      "id"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2025-10-08T15:30:28.000Z",
+    "description": {
+      "en": "The beautiful student council president is cornered by the handsome biology nerd!\nKirishima Sakura is a flawless, elite beauty and the student council president. Her dream is to become Prime Minister one day, and she diligently fulfills her duties as president to sharpen her leadership skills. But one day, she meets Seijirou Tanabe, the school’s most eccentric guy and a handsome biology geek, and soon finds herself swept up in his obsessive passion for living things.\n\nAnd that’s when Sakura discovers it... The hidden side of Seijirou Tanabe that no one else has ever seen!!!",
+      "ja": "美人生徒会長、イケメン生物オタクに迫られる！桐島さくらは完全無欠のエリート美人生徒会長。将来の夢は総理大臣で、リーダーとしての能力を磨くべく、生徒会長としての業務を日々全うしている。そんなある日、学校一の変人であるイケメン生物オタク・田辺聖二郎と出会い、彼の生物への偏愛に振り回され始める。そして桐島は知ることになった。誰も知らなかった田辺聖二郎の隠された姿をーー‼"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "319c98e9-9930-4631-9dc0-1393a4c010bc",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/200001",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=qnoua44",
+      "myAnimeList": "https://myanimelist.net/manga/187724",
+      "raw": "https://pocket.shonenmagazine.com/title/03000/"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "6ccbd0aa-6dad-4af7-bf35-6b88fc9baf1c",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shounen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+        "name": {
+          "en": "Animals"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+        "name": {
+          "en": "School Life"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+        "name": {
+          "en": "Slice of Life"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "ja-ro": "Seibutsu-bu no Tanabe-kun"
+    },
+    "updatedAt": "2025-10-09T17:46:51.000Z",
+    "version": 8,
+    "year": 2025,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "f4c81724-4e50-4215-a046-850205a9ab0b",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "b461d615-1bed-4dea-b1fb-99d862c98ea6",
+    "altTitles": [
+      {
+        "ja": "職場と自宅でギャップのあるパパ"
+      },
+      {
+        "ja-ro": "Shokuba to Jitaku de Gyappu no Aru Papa"
+      },
+      {
+        "en": "Gap Papa: Daddy At Work And At Home"
+      },
+      {
+        "id": "Bapak neng kantor Karo neng omah"
+      },
+      {
+        "id": "Ayah di kantor dan di rumah"
+      },
+      {
+        "tr": "Evde ve İşte Babam"
+      },
+      {
+        "ru": "Такой разный папочка"
+      },
+      {
+        "ru": "Папа разрывается между работой и домом"
+      },
+      {
+        "uk": "Татко на роботі та вдома"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "e620878f-70d2-4abb-acc9-f6e03ce1a3f7",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "e620878f-70d2-4abb-acc9-f6e03ce1a3f7",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en",
+      "tr",
+      "vi",
+      "fr",
+      "pt-br",
+      "id",
+      "uk"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2021-01-25T06:04:11.000Z",
+    "description": {
+      "en": "This charming, full-color story about a devoted family man began as a popular webcomic!\n\nHis colleagues at work see him as handsome, cool, and distant…but the moment he’s back home, this frosty-looking salaryman shows his true colors as a doting father and husband. Playing silly games with his young daughter, showering kisses on his beloved wife – talk about a gap between his appearance and personality! These sweet stories about a wholesome family are sure to warm your heart.",
+      "id": "Di tempat kerja dia halus dan dingin, tapi di rumah dia sangat lembut?!\nKumpulan cerita pendek tentang seorang ayah yang berbakti dan keluarganya yang berharga!",
+      "uk": "Колеги на роботі бачать його красивим, холодним і стриманим... Але щойно він повертається додому, цей суворий на вигляд співробітник показує своє справжнє обличчя: люблячого батька і чоловіка. Кумедні ігри з маленькою донькою, поцілунки коханої дружини — що вже казати про різницю між його зовнішністю та характером! Милі історії про благополучну сім'ю неодмінно зігріють ваше серце."
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "5",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "c3214c3b-82da-438b-bda9-b14f74917d42",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/129877",
+      "animePlanet": "https://www.anime-planet.com/manga/gap-papa-daddy-at-work-and-at-home",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=hwm6i6e",
+      "myAnimeList": "https://myanimelist.net/manga/134961",
+      "kitsu": "https://kitsu.io/api/edge/manga/60781",
+      "raw": "https://page.kakao.com/content/61492686"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "221e7957-67ae-4e15-8ab3-a0988ce20cc9",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "josei",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "completed",
+    "tags": [
+      {
+        "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+        "name": {
+          "en": "Long Strip"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+        "name": {
+          "en": "Office Workers"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+        "name": {
+          "en": "Web Comic"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      },
+      {
+        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+        "name": {
+          "en": "Slice of Life"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+        "name": {
+          "en": "Full Color"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Shokuba to Jitaku de Gap no Aru Papa"
+    },
+    "updatedAt": "2025-11-16T00:03:14.000Z",
+    "version": 46,
+    "year": 2021,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "5bf0c697-13a8-45f0-9e6c-5fded722c5c1",
+    "altTitles": [
+      {
+        "ja": "気が早い大学の後輩彼女"
+      },
+      {
+        "en": "My Impatient College Junior Girlfriend"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "c5ac2282-4246-40db-8978-54912ab8bfff",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "c5ac2282-4246-40db-8978-54912ab8bfff",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "id",
+      "en",
+      "es-la",
+      "bn",
+      "pl",
+      "pt-br"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2025-11-09T17:41:18.000Z",
+    "description": {
+      "en": "This is the story of a busty girlfriend who wears tights and is impatient to get cozy with her senior boyfriend whenever she wants."
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "4a540737-3ade-49b5-af47-0996cf0b8089",
+      "type": "chapter"
+    },
+    "links": {
+      "raw": "https://www.pixiv.net/user/1859092/series/258529"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "553d0cff-1ead-45f6-bf7f-20475a734fad",
+      "type": "cover_art"
+    },
+    "publicationDemographic": null,
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [
+        {
+          "cached": false,
+          "id": "6de8c018-d51c-484a-b6e8-a38447fa7c53",
+          "type": "manga",
+          "related": "alternate_version"
+        }
+      ],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+        "name": {
+          "en": "Web Comic"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      },
+      {
+        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+        "name": {
+          "en": "Slice of Life"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "ja-ro": "Kigahayai Daigaku no Kouhai Kanojo"
+    },
+    "updatedAt": "2025-12-06T20:13:01.000Z",
+    "version": 5,
+    "year": 2023,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "fd38c2f8-e1aa-481a-9797-efea25a1554e",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "231a78d6-bc98-47ab-82d1-6ac981f2748c",
+    "altTitles": [
+      {
+        "ja": "わたしの執事がなびいてくれない"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "408e0410-0c93-45cc-ae91-acdea34573b9",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "408e0410-0c93-45cc-ae91-acdea34573b9",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "vi"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2024-03-03T11:56:50.000Z",
+    "description": {
+      "en": "She wants to win the heart of the cool and handsome butler, Yuichiro Fujino, but he is always too mature to understand her feelings for him. But then he unexpectedly spoils her or is overprotective.... She is at the mercy of Fujino's words and actions, whose true intentions are hard to read, but she is determined to push forward with her love, and you cannot take your eyes off of her!"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "66ebaae6-8ed7-4438-9db7-131ab4b5c93a",
+      "type": "chapter"
+    },
+    "links": {
+      "bookWalker": "https://bookwalker.jp/debceda12f-8d97-409e-b6db-77904640917e",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=cy3cvte",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/700188/A004339204/"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "cf8d8673-26f1-4877-a2a3-d6722ce1589a",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "josei",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Watashi no Shitsuji wa Nabiite Kurenai"
+    },
+    "updatedAt": "2024-03-03T13:15:11.000Z",
+    "version": 4,
+    "year": 2022,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "879af0bb-ce30-47e4-a74e-cd1ce874c6e3",
+    "altTitles": [
+      {
+        "ja": "異世界のんびり農家"
+      },
+      {
+        "en": "Farming Life in Another World"
+      },
+      {
+        "zh": "异世界悠闲农家"
+      },
+      {
+        "zh-hk": "異世界悠閒農家"
+      },
+      {
+        "fr": "La vie de fermier dans un autre monde"
+      },
+      {
+        "pt-br": "A Vida Agrícola em Outro Mundo"
+      },
+      {
+        "tr": "Başka Bir Dünyada Çiftçilik Hayatı"
+      },
+      {
+        "vi": "Cuộc Sống Nông Dân Ở Thế Giới Khác"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "341a43a1-4234-4bd8-9177-1423397fa292",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "b8ca1cc8-bfb0-4dd8-a39f-2f860e974fd8",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "fr",
+      "pt-br",
+      "es-la",
+      "tr",
+      "vi",
+      "en",
+      "ru"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2019-03-02T14:59:08.000Z",
+    "description": {
+      "en": "Having died of sickness at the age of 39, Machio Hiraku is given the opportunity to go to another world. When asked what his wish is by God intending to give him strength, he requests to have a healthy body, offered a second wish, he chooses to live peacefully, a third wish to be able to know the local language, and for a final wish, to be able to be a farmer.",
+      "fr": "Après être mort de maladie à l'âge de 39 ans, Machio Hiraku se voit offrir la possibilité d'aller dans un autre monde. Lorsque Dieu lui demande quel est son souhait afin de lui donner plus de force, il réclame un corps en bonne santé. Pour son deuxième souhait, il choisit de vivre paisiblement, pour son troisième, de pouvoir connaître la langue locale, et pour son dernier souhait, de pouvoir devenir agriculteur.",
+      "ja": "闘病の末に命を落とした青年・火楽は、神様によって蘇生され、若返って異世界に転移した。第二の人生を楽しむため、授けられた『万能農具』を手に、異世界で掘って伐って耕して…。\n\n**Links:**  \n\n- [![](https://i.imgur.com/HI4jAzg.png) Web Novel](https://ncode.syosetu.com/n3289ds/)\n- [Official LN (JP)](http://www.fujimishobo.co.jp/sp/201803nonbiri/)\n- [Alternative Raw](https://dragonage-comic.com/product/nonbiri_noka/)",
+      "tr": "Henüz 39 yaşındayken hastalıktan ölen Machio Hiraku'ya başka bir dünyaya gitme fırsatı verilir. Kendisine güç vermek isteyen Tanrı tarafından dileği sorulduğunda sağlıklı bir bedene sahip olmayı, ikinci bir dilek olarak huzur içinde yaşamayı, üçüncü bir dilek olarak yerel dili bilmeyi ve son bir dilek olarak da çiftçi olabilmeyi seçer."
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "0c6ed9df-f400-410f-b775-cccc3818f900",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/100456",
+      "animePlanet": "https://www.anime-planet.com/manga/farming-life-in-another-world",
+      "bookWalker": "https://bookwalker.jp/series/151065/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=f3p9vzp",
+      "novelUpdates": "https://www.novelupdates.com/series/isekai-nonbiri-nouka",
+      "myAnimeList": "https://myanimelist.net/manga/110460",
+      "kitsu": "https://kitsu.io/api/edge/manga/40268",
+      "amazon": "https://www.amazon.co.jp/dp/B08DCWRKQ2",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/427170",
+      "raw": "https://comic-walker.com/detail/KC_004468_S",
+      "officialEnglishTranslation": "https://www.onepeacebooks.com/jt/FarmingLife",
+      "cdJapan": "https://www.cdjapan.co.jp/product/NEOBK-2194144"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "57e6d2ba-b0e5-4ab1-a18e-945e406c5314",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shounen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [
+        {
+          "cached": false,
+          "id": "86295633-9529-4f9b-b152-e77630f6678f",
+          "type": "manga",
+          "related": "spin_off"
+        }
+      ],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+        "name": {
+          "en": "Monsters"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+        "name": {
+          "en": "Survival"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+        "name": {
+          "en": "Adventure"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+        "name": {
+          "en": "Magic"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+        "name": {
+          "en": "Harem"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "ace04997-f6bd-436e-b261-779182193d3d",
+        "name": {
+          "en": "Isekai"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+        "name": {
+          "en": "Fantasy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+        "name": {
+          "en": "Monster Girls"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+        "name": {
+          "en": "Slice of Life"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+        "name": {
+          "en": "Adaptation"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      }
+    ],
+    "title": {
+      "ja-ro": "Isekai Nonbiri Nouka"
+    },
+    "updatedAt": "2025-12-01T14:01:53.000Z",
+    "version": 46,
+    "year": 2017,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "2bb86240-1f2a-4061-88d5-f3db0b1a19e2",
+    "altTitles": [
+      {
+        "ja": "怪人麗嬢"
+      },
+      {
+        "en": "Slasher Maidens"
+      },
+      {
+        "ko": "괴인영애"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "5775d371-28f6-4459-b4a8-77ad83e754c4",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "5775d371-28f6-4459-b4a8-77ad83e754c4",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "es-la",
+      "vi"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2021-01-02T11:23:25.000Z",
+    "description": {
+      "en": "Asuma Sudou has always been a proud pervert, but he's sworn to give that up to chase the girl of his dreams. Having received a special invitation to enter the same all-girls school as her, he's planning to live his romantic youth to the fullest. But those plans are cut short when it turns out the school is a front for a secret organization dedicated to battling kaijin-monsters created when people succumb to their murderous impulses! The girls of the school fight using the relics of defeated kaijin, but when the bloodthirsty instincts sealed within threaten to overwhelm them, Asuma is the only one who can bring them back to their senses!\n\n(From: Yen Press)",
+      "ja": "幼い頃からエロかった須藤遊真はお嬢様高校に通う少女に一目惚れし、その高校へ編入してしまう。\n憧れの少女、印南と出会いワクワクの遊真だったがその高校にはとんでもない秘密が…！\n\n「アカメが斬る！」の田代哲也が送る、超絶スプラッターアクション!!",
+      "es-la": "En todo el mundo, las personas se están convirtiendo en monstruos y se apoderan de impulsos asesinos. El joven Asuma Sudô lleva una vida tranquila y nunca ha tenido que lidiar con ningún monstruo. Obsesionado por las chicas desde su infancia, se enamoró a primera vista de una alumna de un instituto para solo para chicas. Fue entonces que por un increíble golpe del destino, le ofrecieron ingresar a este establecimiento, a pesar de ser un chico. Asuma se encuentra así junto a la chica de sus sueños, ¡pero, no sabe que esta escuela secundaria es en realidad una organización especializada en el exterminio de monstruos!"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "a02e0fb6-653d-45e5-be93-dc7dcae40da7",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/105713",
+      "animePlanet": "https://www.anime-planet.com/manga/slasher-maidens",
+      "bookWalker": "https://bookwalker.jp/series/189754/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=2elrlic",
+      "myAnimeList": "https://myanimelist.net/manga/127968",
+      "kitsu": "https://kitsu.io/api/edge/manga/62290",
+      "raw": "https://magazine.jp.square-enix.com/joker/series/kaijinreijoh/"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "795952c9-0a2a-45ad-a061-2db669c56f21",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shounen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+        "name": {
+          "en": "Sexual Violence"
+        },
+        "description": {
+
+        },
+        "group": "content",
+        "version": 1
+      },
+      {
+        "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+        "name": {
+          "en": "Gore"
+        },
+        "description": {
+
+        },
+        "group": "content",
+        "version": 1
+      },
+      {
+        "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+        "name": {
+          "en": "Horror"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+        "name": {
+          "en": "Fantasy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Kaijin Reijou"
+    },
+    "updatedAt": "2025-12-21T15:59:59.000Z",
+    "version": 22,
+    "year": 2018,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "ba7330a9-995a-4a03-8a2a-24ddf8947d33",
+    "altTitles": [
+      {
+        "en": "I Am Shingo"
+      },
+      {
+        "ja-ro": "Watashi wa Shingo"
+      },
+      {
+        "ja": "わたしは真悟"
+      },
+      {
+        "zh": "我是真悟"
+      },
+      {
+        "fr": "Je suis Shingo"
+      },
+      {
+        "it": "Io sono Shingo"
+      },
+      {
+        "ru": "Меня зовут Синго"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "344c9083-ef8c-4eda-81d6-4aca7453d335",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "344c9083-ef8c-4eda-81d6-4aca7453d335",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "ru"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2018-02-15T19:15:52.000Z",
+    "description": {
+      "en": "Two elementary school pupils, a girl named Marine and a boy named Satoru, fall in love and are blessed with a rather unorthodox child which happens to be a robot. This robot is called Shingo and the story recounts how its mind develops and how it travels the world in pursuit of its ‘parents’ whom it has never had a chance to meet.\n\nNote: Volume count based on the bunkoban.",
+      "ru": "Два ученика начальной школы, девочка по имени Марине и мальчик по имени Сатору, влюбляются друг в друга и благословлены довольно нестандартным ребенком, который оказывается роботом. Этого робота зовут Синго, и история рассказывает, как развивается его разум и как он путешествует по миру в поисках своих «родителей», с которыми у него никогда не было возможности встретиться."
+    },
+    "isLocked": false,
+    "lastChapter": "7.2",
+    "lastVolume": "7",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "023bf5dc-3c89-41e7-8bc6-276895bfe69d",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/54646",
+      "animePlanet": "https://www.anime-planet.com/manga/my-name-is-shingo",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=cngsgw9",
+      "myAnimeList": "https://myanimelist.net/manga/24646",
+      "kitsu": "https://kitsu.io/api/edge/manga/17127"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "e93574ae-a613-4f1b-8c35-510d4a955426",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "seinen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [
+        {
+          "cached": false,
+          "id": "7eaf4c3e-9170-4147-b3bd-8dd264cfd123",
+          "type": "manga",
+          "related": "prequel"
+        }
+      ],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "completed",
+    "tags": [
+      {
+        "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+        "name": {
+          "en": "Sci-Fi"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+        "name": {
+          "en": "Psychological"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "My Name Is Shingo"
+    },
+    "updatedAt": "2025-11-15T16:43:04.000Z",
+    "version": 10,
+    "year": 1982,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "05492863-1265-42fb-b9a0-e97c1b2ef612",
+    "altTitles": [
+      {
+        "ja": "ミナミの帝王"
+      },
+      {
+        "en": "King of Minami"
+      },
+      {
+        "zh-hk": "南街帝王"
+      },
+      {
+        "it": "Re di Minami"
+      },
+      {
+        "vi": "Hoàng đế Minami"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "a6b63ce3-3b10-4e48-9eae-449b7dab016d",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "203cf2e0-32d3-49d0-aca4-eca904114c61",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "vi",
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2020-03-19T08:53:19.000Z",
+    "description": {
+      "en": "Centers around Ginjirou Manda, a loan shark who charges toichi — 10% more interest every 10 days, or 365% every year. Thanks to his unrelenting money-collecting tactics, he is feared as \"Minami no Oni\" or the \"Demon\" of Osaka's Minami business district.",
+      "it": "La storia narra di Ginjirou Manda, uno strozzino che applica degli interessi sui debiti del 10% ogni dieci giorni, o del 365% ogni anno. Grazie alle sue tecniche di recupero crediti inesorabili, è conosciuto come il \"Demone di Minami\", che è il quartiere commerciale di Osaka.",
+      "ja": "鬼の住む街、大阪ミナミ…。十一（トイチ）の高利貸し、萬田銀次郎がキリトリ三昧！《十一の銀次郎１～４》自動車整備会社社長・徳永と銀次郎の一騎打ち！逃げる男と追う男、果たして…？"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "47f9f77d-18d6-4e8a-9785-930e5766b242",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/67729",
+      "animePlanet": "https://www.anime-planet.com/manga/minami-no-teiou",
+      "bookWalker": "https://bookwalker.jp/series/3352/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=8dqqs09",
+      "myAnimeList": "https://myanimelist.net/manga/37729",
+      "kitsu": "https://kitsu.io/api/edge/manga/16555",
+      "amazon": "https://www.amazon.co.jp/dp/B08WDVV4HR",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/100148"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "278d8df2-807e-4ff7-95fc-c63d328ea5cc",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "seinen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+        "name": {
+          "en": "Crime"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+        "name": {
+          "en": "Mafia"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Minami no Teiou"
+    },
+    "updatedAt": "2025-12-04T17:02:32.000Z",
+    "version": 21,
+    "year": 1992,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "cde5424f-02e5-4c90-a433-b92d831d9856",
+    "altTitles": [
+      {
+        "ja": "君めく夜に焦がれて"
+      },
+      {
+        "en": "Yearning for a Night Full of You"
+      },
+      {
+        "ko": "너와 닮은 밤을 동경해서"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "d2c0e378-d76e-4016-88af-832d0610451c",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "d2c0e378-d76e-4016-88af-832d0610451c",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "ko",
+      "en",
+      "es-la",
+      "th",
+      "pt-br"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2024-10-09T13:48:53.000Z",
+    "description": {
+      "en": "At Saint Ruri Girl's Academy, there are two opposing factions: the \"Ruri Class,\" consisting of refined, well-bred ladies, and the \"Ai Class,\" made up of delinquents with poor behavior. Nanase Mitsuki, among the students of the Ai Class, is the most feared by the Ruri Class due to her intimidating appearance, though Mitsuki harbors a complex about her looks. One night, she meets Hosho Yuka, a young lady wandering alone at night...",
+      "ja": "ここには、由緒正しいお嬢様たちの「瑠璃組」と、素行のよくない不良たちの「藍組」という、相反する2つの勢力があった。七瀬珠月（ななせみつき）は、藍組生徒の中でも、その厳つい見た目から瑠璃組に最も恐れられる存在。そんな見た目にコンプレックスを抱えていた珠月だが、ある夜、夜道を徘徊するお嬢様・宝生悠花（ほうしょうゆうか）に出会い……？"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "65298a87-068a-405d-8db2-e4c7dacf6fae",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/178728",
+      "animePlanet": "https://www.anime-planet.com/manga/kimimeku-yoru-ni-kogarete",
+      "bookWalker": "https://bookwalker.jp/series/491623/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=btygn05",
+      "kitsu": "https://kitsu.io/api/edge/manga?filter[slug]=kimi-meku-yoru-ni-kogarete",
+      "amazon": "https://www.amazon.co.jp/dp/B0DJ8H5Q3N",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/855525/",
+      "raw": "https://booklive.jp/product/index/title_id/10009699/vol_no/001"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "1348ee6c-984e-4a19-9786-023939044abe",
+      "type": "cover_art"
+    },
+    "publicationDemographic": null,
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+        "name": {
+          "en": "Girls' Love"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+        "name": {
+          "en": "School Life"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Kimi Meku Yoru ni Kogarete"
+    },
+    "updatedAt": "2025-01-29T00:54:40.000Z",
+    "version": 32,
+    "year": 2024,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "9c5602c5-bcdc-4b48-b2c5-79339fd8ebad",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  }
+]

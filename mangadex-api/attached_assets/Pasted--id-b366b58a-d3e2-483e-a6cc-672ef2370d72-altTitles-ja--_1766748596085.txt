@@ -1,0 +1,137 @@
+{
+  "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+  "altTitles": [
+    {
+      "ja": "レプリカ　元妻の復讐"
+    }
+  ],
+  "artists": [
+    {
+      "cached": false,
+      "id": "09580767-3168-4b71-862b-627bc2211484",
+      "type": "artist"
+    }
+  ],
+  "authors": [
+    {
+      "cached": false,
+      "id": "2a204c08-6036-4e9c-b785-dfb708e3bf53",
+      "type": "author"
+    }
+  ],
+  "availableTranslatedLanguages": [
+    "en"
+  ],
+  "chapterNumbersResetOnNewVolume": false,
+  "contentRating": "safe",
+  "createdAt": "2022-03-05T20:45:42.000Z",
+  "description": {
+    "en": "Sumire was once bullied and cursed as \"ugly\". Without worrying about her appearance, she marries an ideal man who loves her. But one day, he cheats on another woman with a beautiful appearance and declares a divorce on her...\n\nWhat's more, the woman was her main culprit, who once bullied Sumire. Now with a new identity, Violet vows her revenge on the woman who robbed her of her man and her husband who abandoned herself. Her fierce revenge begins on the woman who changed her face, changed her name, and was tied up with her ties.",
+    "ja": "かつて「ブス」と虐められ、罵られていたすみれ。 容姿を気にせず、自分を愛してくれる理想の男性と結婚するが、彼は美しい容姿を持った別の女に浮気し、離婚してしまう…。 しかも偶然にもその女は、かつてすみれのことを虐めていた主犯、その人であった―――。 自分から男を奪った女、そして自分を捨てた旦那へ復讐を誓うすみれ。 顔を変え、名前を変え、宿縁で結ばれた女への、苛烈な復讐が始まる。"
+  },
+  "isLocked": false,
+  "lastChapter": "",
+  "lastVolume": "",
+  "latestUploadedChapter": {
+    "cached": false,
+    "id": "75e8fd7d-3e46-4f8a-8670-902d52724932",
+    "type": "chapter"
+  },
+  "links": {
+    "anilist": "https://anilist.co/manga/162557",
+    "bookWalker": "https://bookwalker.jp/series/285848/list",
+    "mangaUpdates": "https://www.mangaupdates.com/series.html?id=fj0z3b7",
+    "myAnimeList": "https://myanimelist.net/manga/189236",
+    "amazon": "https://www.amazon.co.jp/dp/B094J5RBTM",
+    "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/621699",
+    "raw": "https://mangahot.jp/site/works/t_R0018",
+    "officialEnglishTranslation": "https://mangaplaza.com/title/0303009771/"
+  },
+  "mainCover": {
+    "cached": false,
+    "id": "e4b524ab-48f4-4c91-96b9-a08b3ffdacc2",
+    "type": "cover_art"
+  },
+  "publicationDemographic": "seinen",
+  "relatedManga": {
+    "monochrome": [],
+    "main_story": [],
+    "adapted_from": [],
+    "based_on": [],
+    "prequel": [],
+    "side_story": [],
+    "doujinshi": [],
+    "same_franchise": [],
+    "shared_universe": [],
+    "sequel": [],
+    "spin_off": [],
+    "alternate_story": [],
+    "alternate_version": [],
+    "preserialization": [],
+    "colored": [],
+    "serialization": []
+  },
+  "state": "published",
+  "status": "ongoing",
+  "tags": [
+    {
+      "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+      "name": {
+        "en": "Thriller"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    },
+    {
+      "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+      "name": {
+        "en": "Psychological"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    },
+    {
+      "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+      "name": {
+        "en": "Drama"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    },
+    {
+      "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+      "name": {
+        "en": "Tragedy"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    }
+  ],
+  "title": {
+    "en": "Repurika - Moto Tsuma no Fukushuu"
+  },
+  "updatedAt": "2025-12-05T17:01:22.000Z",
+  "version": 13,
+  "year": 2020,
+  "originalLanguage": "ja",
+  "creator": {
+    "cached": false,
+    "id": "32dcf14c-dd02-4fa7-9b40-b330c395f75b",
+    "type": "creator"
+  },
+  "officialLinks": {
+
+  }
+}

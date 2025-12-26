@@ -1,0 +1,272 @@
+[
+  {
+    "id": "215389fe-69b1-4c3e-b38b-3aa562428186",
+    "title": "The Language of Clovers",
+    "volume": "1",
+    "chapter": "1",
+    "pages": 17,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 9,
+    "createdAt": "2025-11-17T11:53:06.000Z",
+    "publishAt": "2025-11-17T11:53:07.000Z",
+    "updatedAt": "2025-11-23T14:35:28.000Z",
+    "readableAt": "2025-11-17T11:53:07.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "5be5d09a-0d97-4fca-b84c-8520fadd379a",
+    "title": "Present",
+    "volume": "2",
+    "chapter": "11",
+    "pages": 16,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-07T03:45:36.000Z",
+    "publishAt": "2025-12-07T03:47:01.000Z",
+    "updatedAt": "2025-12-07T03:48:46.000Z",
+    "readableAt": "2025-12-07T03:47:01.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "ce6051c4-7f07-44ef-aada-4a76c2b72f94",
+    "title": "A New Target",
+    "volume": "2",
+    "chapter": "12",
+    "pages": 17,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-08T08:54:09.000Z",
+    "publishAt": "2025-12-08T08:54:10.000Z",
+    "updatedAt": "2025-12-08T08:54:27.000Z",
+    "readableAt": "2025-12-08T08:54:10.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "5a4de1da-38e4-4094-855d-07d7de4fb698",
+    "title": "Act of Betrayal",
+    "volume": "3",
+    "chapter": "16",
+    "pages": 18,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-13T16:11:20.000Z",
+    "publishAt": "2025-12-13T16:11:20.000Z",
+    "updatedAt": "2025-12-13T16:11:45.000Z",
+    "readableAt": "2025-12-13T16:11:20.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "e75d30a6-a07d-4b57-b74b-4a9cb8b7c016",
+    "title": "Scars of Memories",
+    "volume": "2",
+    "chapter": "14",
+    "pages": 19,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-10T10:48:17.000Z",
+    "publishAt": "2025-12-10T10:48:17.000Z",
+    "updatedAt": "2025-12-10T10:48:44.000Z",
+    "readableAt": "2025-12-10T10:48:17.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "75e8fd7d-3e46-4f8a-8670-902d52724932",
+    "title": "Turning Point",
+    "volume": "4",
+    "chapter": "23",
+    "pages": 19,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-26T11:25:18.000Z",
+    "publishAt": "2025-12-26T11:25:18.000Z",
+    "updatedAt": "2025-12-26T11:25:36.000Z",
+    "readableAt": "2025-12-26T11:25:18.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "2c4627f4-798d-45ba-8645-ac75a72a32b7",
+    "title": "Fate",
+    "volume": "1",
+    "chapter": "2",
+    "pages": 23,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 4,
+    "createdAt": "2025-11-18T09:03:26.000Z",
+    "publishAt": "2025-11-18T09:03:26.000Z",
+    "updatedAt": "2025-11-23T14:39:23.000Z",
+    "readableAt": "2025-11-18T09:03:26.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "6bda207b-6de2-449b-8c81-a94f4c823a90",
+    "title": "False Friendship",
+    "volume": "2",
+    "chapter": "8",
+    "pages": 19,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 4,
+    "createdAt": "2025-12-02T04:09:22.000Z",
+    "publishAt": "2025-12-02T04:09:23.000Z",
+    "updatedAt": "2025-12-02T04:20:31.000Z",
+    "readableAt": "2025-12-02T04:09:23.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "52f46153-90de-433a-a4af-14b2c23ad14e",
+    "title": "Opportunity",
+    "volume": "2",
+    "chapter": "9",
+    "pages": 16,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-04T09:55:32.000Z",
+    "publishAt": "2025-12-04T09:55:33.000Z",
+    "updatedAt": "2025-12-04T09:55:47.000Z",
+    "readableAt": "2025-12-04T09:55:33.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  },
+  {
+    "id": "4cd0bf78-cf96-454f-b6ea-0d18c0822747",
+    "title": "Cracked",
+    "volume": "2",
+    "chapter": "10",
+    "pages": 19,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 3,
+    "createdAt": "2025-12-06T07:18:45.000Z",
+    "publishAt": "2025-12-06T07:18:46.000Z",
+    "updatedAt": "2025-12-06T07:19:12.000Z",
+    "readableAt": "2025-12-06T07:18:46.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  }
+]

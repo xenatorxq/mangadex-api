@@ -1,0 +1,2331 @@
+[
+  {
+    "id": "ba7330a9-995a-4a03-8a2a-24ddf8947d33",
+    "altTitles": [
+      {
+        "en": "I Am Shingo"
+      },
+      {
+        "ja-ro": "Watashi wa Shingo"
+      },
+      {
+        "ja": "わたしは真悟"
+      },
+      {
+        "zh": "我是真悟"
+      },
+      {
+        "fr": "Je suis Shingo"
+      },
+      {
+        "it": "Io sono Shingo"
+      },
+      {
+        "ru": "Меня зовут Синго"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "344c9083-ef8c-4eda-81d6-4aca7453d335",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "344c9083-ef8c-4eda-81d6-4aca7453d335",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "ru"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2018-02-15T19:15:52.000Z",
+    "description": {
+      "en": "Two elementary school pupils, a girl named Marine and a boy named Satoru, fall in love and are blessed with a rather unorthodox child which happens to be a robot. This robot is called Shingo and the story recounts how its mind develops and how it travels the world in pursuit of its ‘parents’ whom it has never had a chance to meet.\n\nNote: Volume count based on the bunkoban.",
+      "ru": "Два ученика начальной школы, девочка по имени Марине и мальчик по имени Сатору, влюбляются друг в друга и благословлены довольно нестандартным ребенком, который оказывается роботом. Этого робота зовут Синго, и история рассказывает, как развивается его разум и как он путешествует по миру в поисках своих «родителей», с которыми у него никогда не было возможности встретиться."
+    },
+    "isLocked": false,
+    "lastChapter": "7.2",
+    "lastVolume": "7",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "023bf5dc-3c89-41e7-8bc6-276895bfe69d",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/54646",
+      "animePlanet": "https://www.anime-planet.com/manga/my-name-is-shingo",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=cngsgw9",
+      "myAnimeList": "https://myanimelist.net/manga/24646",
+      "kitsu": "https://kitsu.io/api/edge/manga/17127"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "e93574ae-a613-4f1b-8c35-510d4a955426",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "seinen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [
+        {
+          "cached": false,
+          "id": "7eaf4c3e-9170-4147-b3bd-8dd264cfd123",
+          "type": "manga",
+          "related": "prequel"
+        }
+      ],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "completed",
+    "tags": [
+      {
+        "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+        "name": {
+          "en": "Sci-Fi"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+        "name": {
+          "en": "Psychological"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "My Name Is Shingo"
+    },
+    "updatedAt": "2025-11-15T16:43:04.000Z",
+    "version": 10,
+    "year": 1982,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "05492863-1265-42fb-b9a0-e97c1b2ef612",
+    "altTitles": [
+      {
+        "ja": "ミナミの帝王"
+      },
+      {
+        "en": "King of Minami"
+      },
+      {
+        "zh-hk": "南街帝王"
+      },
+      {
+        "it": "Re di Minami"
+      },
+      {
+        "vi": "Hoàng đế Minami"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "a6b63ce3-3b10-4e48-9eae-449b7dab016d",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "203cf2e0-32d3-49d0-aca4-eca904114c61",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "vi",
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2020-03-19T08:53:19.000Z",
+    "description": {
+      "en": "Centers around Ginjirou Manda, a loan shark who charges toichi — 10% more interest every 10 days, or 365% every year. Thanks to his unrelenting money-collecting tactics, he is feared as \"Minami no Oni\" or the \"Demon\" of Osaka's Minami business district.",
+      "it": "La storia narra di Ginjirou Manda, uno strozzino che applica degli interessi sui debiti del 10% ogni dieci giorni, o del 365% ogni anno. Grazie alle sue tecniche di recupero crediti inesorabili, è conosciuto come il \"Demone di Minami\", che è il quartiere commerciale di Osaka.",
+      "ja": "鬼の住む街、大阪ミナミ…。十一（トイチ）の高利貸し、萬田銀次郎がキリトリ三昧！《十一の銀次郎１～４》自動車整備会社社長・徳永と銀次郎の一騎打ち！逃げる男と追う男、果たして…？"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "47f9f77d-18d6-4e8a-9785-930e5766b242",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/67729",
+      "animePlanet": "https://www.anime-planet.com/manga/minami-no-teiou",
+      "bookWalker": "https://bookwalker.jp/series/3352/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=8dqqs09",
+      "myAnimeList": "https://myanimelist.net/manga/37729",
+      "kitsu": "https://kitsu.io/api/edge/manga/16555",
+      "amazon": "https://www.amazon.co.jp/dp/B08WDVV4HR",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/100148"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "278d8df2-807e-4ff7-95fc-c63d328ea5cc",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "seinen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+        "name": {
+          "en": "Crime"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+        "name": {
+          "en": "Mafia"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Minami no Teiou"
+    },
+    "updatedAt": "2025-12-04T17:02:32.000Z",
+    "version": 21,
+    "year": 1992,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "cde5424f-02e5-4c90-a433-b92d831d9856",
+    "altTitles": [
+      {
+        "ja": "君めく夜に焦がれて"
+      },
+      {
+        "en": "Yearning for a Night Full of You"
+      },
+      {
+        "ko": "너와 닮은 밤을 동경해서"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "d2c0e378-d76e-4016-88af-832d0610451c",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "d2c0e378-d76e-4016-88af-832d0610451c",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "ko",
+      "en",
+      "es-la",
+      "th",
+      "pt-br"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2024-10-09T13:48:53.000Z",
+    "description": {
+      "en": "At Saint Ruri Girl's Academy, there are two opposing factions: the \"Ruri Class,\" consisting of refined, well-bred ladies, and the \"Ai Class,\" made up of delinquents with poor behavior. Nanase Mitsuki, among the students of the Ai Class, is the most feared by the Ruri Class due to her intimidating appearance, though Mitsuki harbors a complex about her looks. One night, she meets Hosho Yuka, a young lady wandering alone at night...",
+      "ja": "ここには、由緒正しいお嬢様たちの「瑠璃組」と、素行のよくない不良たちの「藍組」という、相反する2つの勢力があった。七瀬珠月（ななせみつき）は、藍組生徒の中でも、その厳つい見た目から瑠璃組に最も恐れられる存在。そんな見た目にコンプレックスを抱えていた珠月だが、ある夜、夜道を徘徊するお嬢様・宝生悠花（ほうしょうゆうか）に出会い……？"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "65298a87-068a-405d-8db2-e4c7dacf6fae",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/178728",
+      "animePlanet": "https://www.anime-planet.com/manga/kimimeku-yoru-ni-kogarete",
+      "bookWalker": "https://bookwalker.jp/series/491623/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=btygn05",
+      "kitsu": "https://kitsu.io/api/edge/manga?filter[slug]=kimi-meku-yoru-ni-kogarete",
+      "amazon": "https://www.amazon.co.jp/dp/B0DJ8H5Q3N",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/855525/",
+      "raw": "https://booklive.jp/product/index/title_id/10009699/vol_no/001"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "1348ee6c-984e-4a19-9786-023939044abe",
+      "type": "cover_art"
+    },
+    "publicationDemographic": null,
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+        "name": {
+          "en": "Girls' Love"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+        "name": {
+          "en": "School Life"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Kimi Meku Yoru ni Kogarete"
+    },
+    "updatedAt": "2025-01-29T00:54:40.000Z",
+    "version": 32,
+    "year": 2024,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "9c5602c5-bcdc-4b48-b2c5-79339fd8ebad",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "baaa0ca4-efef-4b15-b91a-c1f85692c2a7",
+    "altTitles": [
+      {
+        "es": "Caballero Vampiro"
+      },
+      {
+        "pt": "Cavaleiro Vampiro"
+      },
+      {
+        "vi": "Hiệp sĩ Vampire"
+      },
+      {
+        "tr": "Vampir Şövalye"
+      },
+      {
+        "ja": "ヴァンパイア騎士"
+      },
+      {
+        "zh-hk": "吸血鬼騎士"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "098ce244-f8d7-4dcb-bb31-5c5993dee615",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "098ce244-f8d7-4dcb-bb31-5c5993dee615",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "pt-br",
+      "en",
+      "tr",
+      "uk",
+      "bg",
+      "ar",
+      "pl"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2018-02-27T10:56:11.000Z",
+    "description": {
+      "en": "Cross Academy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires!",
+      "pt-br": "A história de Vampire Knight trata de uma garota chamada Kurosu Yuuki, que não se lembra de nada de seu passado anterior a um certo dia; dia em que foi salva por Kaname Kuran, um vampiro \"puro-sangue\" que decidiu ficar em paz com os humanos, não sugando mais seus sangue. Devido a morte dos pais de Yuuki, Kaname leva-a para uma escola chamada Cross Academy, que aceita vampiros e humanos em paz na mesma escola, separando-os em Classe do Dia e Classe da Noite. Porém, para que os vampiros permaneçam na escola, não podem revelar sua identidade de vampiros e não podem sugar o sangue de ninguém."
+    },
+    "isLocked": false,
+    "lastChapter": "93",
+    "lastVolume": "19",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "b5db33d0-b29e-4282-8b6d-f04db75dff88",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/30618",
+      "animePlanet": "https://www.anime-planet.com/manga/vampire-knight",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=mwdpn46",
+      "myAnimeList": "https://myanimelist.net/manga/618",
+      "kitsu": "https://kitsu.io/api/edge/manga/1404",
+      "officialEnglishTranslation": "https://www.viz.com/vampire-knight"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "1a1f6fcc-b35d-4f1e-add5-b9da00004126",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shoujo",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [
+        {
+          "cached": false,
+          "id": "38221d4a-687d-49bc-a2f4-44ce42fab8d9",
+          "type": "manga",
+          "related": "sequel"
+        }
+      ],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "completed",
+    "tags": [
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
+        "name": {
+          "en": "Incest"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "65761a2a-415e-47f3-bef2-a9dababba7a6",
+        "name": {
+          "en": "Reverse Harem"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+        "name": {
+          "en": "School Life"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "d7d1730f-6eb0-4ba6-9437-602cac38664c",
+        "name": {
+          "en": "Vampires"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+        "name": {
+          "en": "Supernatural"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+        "name": {
+          "en": "Mystery"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+        "name": {
+          "en": "Tragedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Vampire Knight"
+    },
+    "updatedAt": "2025-11-15T22:23:46.000Z",
+    "version": 10,
+    "year": 2005,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "af88e20e-2f2f-4e4e-bb97-17719653a274",
+    "altTitles": [
+      {
+        "ja": "血翼の猟人"
+      },
+      {
+        "ja-ro": "Chiyoku no Karyuudo"
+      },
+      {
+        "ru": "Кровавокрылый охотник"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "0725055b-1d31-4b7c-b4db-88e4a4e46038",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "0725055b-1d31-4b7c-b4db-88e4a4e46038",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "ru",
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2025-05-29T15:25:12.000Z",
+    "description": {
+      "en": "In the blink of an eye, his blissful days with his little sister are suddenly stolen from him forever by a certain \"being\". What lies in store for a man sworn to vengeance? Find out as you follow him on his enthralling mission for revenge, with the aid of his sword imbued with the flames of his intense anger and hatred."
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "8a593294-9c25-49ea-98dd-330257edc791",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/193827",
+      "bookWalker": "https://bookwalker.jp/series/556895/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=bb1nh0o",
+      "myAnimeList": "https://myanimelist.net/manga/182287",
+      "amazon": "https://www.amazon.co.jp/dp/B0FTQPB62J",
+      "raw": "https://shonenjumpplus.com/episode/17106567266123221068",
+      "officialEnglishTranslation": "https://mangaplus.shueisha.co.jp/titles/100509"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "b13054f3-ae12-4f50-8fba-93dbc761932e",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shounen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+        "name": {
+          "en": "Monsters"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+        "name": {
+          "en": "Gore"
+        },
+        "description": {
+
+        },
+        "group": "content",
+        "version": 1
+      },
+      {
+        "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+        "name": {
+          "en": "Supernatural"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Blood Wing Hunter"
+    },
+    "updatedAt": "2025-12-11T17:52:07.000Z",
+    "version": 15,
+    "year": 2025,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "fb03ae91-2304-4a1f-b9e2-6b5ba3313138",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "acaf9991-d55c-4d8d-8f26-f98d769f4e32",
+    "altTitles": [
+      {
+        "ja": "カット＆ペーストでこの世界を生きていく"
+      },
+      {
+        "en": "Living in This World With Cut & Paste"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "0c0b2c75-dc77-453b-95e5-d1bd702e6472",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "1c420879-318e-4b75-9bf1-ba4915d18ad2",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "ru",
+      "en",
+      "es-la"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2019-06-23T19:29:49.000Z",
+    "description": {
+      "en": "A world where God will grant abilities called Skills to those who come of age. The protagonist, bestowed with two skills, uses them and rises to an existence called a hero.",
+      "ja": "成人を迎えると神様からスキルと呼ばれる技能を得られる世界。15歳を迎えて成人したマインは、「カット＆ペースト」と「鑑定・全」という2つのスキルを授かった。一見使い物にならないと思えた「カット＆ペースト」であったが、使い方しだいで無敵のスキルになることが判明。 そのチートすぎるスキルを周りに隠しながら生きることに苦悩するマインのもとへ、突然王女様がやって来て、事態はあらぬ方向に――。"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "5b5ecea3-0013-4b7a-9b3a-be5fc0fae476",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/116657",
+      "animePlanet": "https://www.anime-planet.com/manga/cut-and-paste-de-kono-sekai-wo-ikiteiku",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=900xwfd",
+      "myAnimeList": "https://myanimelist.net/manga/115804",
+      "kitsu": "https://kitsu.io/api/edge/manga/54221",
+      "raw": "https://seiga.nicovideo.jp/comic/34741"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "f39557cf-ec25-4131-b53e-d2abf84c89ff",
+      "type": "cover_art"
+    },
+    "publicationDemographic": null,
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+        "name": {
+          "en": "Monsters"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+        "name": {
+          "en": "Demons"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+        "name": {
+          "en": "Adventure"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+        "name": {
+          "en": "Magic"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+        "name": {
+          "en": "Harem"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "ace04997-f6bd-436e-b261-779182193d3d",
+        "name": {
+          "en": "Isekai"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+        "name": {
+          "en": "Fantasy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+        "name": {
+          "en": "Slice of Life"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+        "name": {
+          "en": "Adaptation"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      },
+      {
+        "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+        "name": {
+          "en": "Tragedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "ja-ro": "Cut & Paste de Kono Sekai o Ikiteiku"
+    },
+    "updatedAt": "2025-12-24T19:20:22.000Z",
+    "version": 20,
+    "year": 2018,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "454e3b5b-3c71-4329-a39a-5211347f9e86",
+    "altTitles": [
+      {
+        "zh": "重生水浒世界之最强武大郎"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "3f53d31b-f8c1-4aba-b73a-9cbba2d6be6b",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "52b7a1cf-4dbc-462f-a2e8-31a3e512293d",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "3f53d31b-f8c1-4aba-b73a-9cbba2d6be6b",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "52b7a1cf-4dbc-462f-a2e8-31a3e512293d",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "erotica",
+    "createdAt": "2025-11-17T15:56:53.000Z",
+    "description": {
+      "en": "Modern youth Wu Zhi travels to the world of Water Margin and swaps bodies with Wu Dalang, outwits Ximen Qing,\nand uses his precognitive abilities to win over the heroes."
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "a9beb21b-3dc3-442b-9580-1fb73c2a56ae",
+      "type": "chapter"
+    },
+    "links": {
+
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "c5013966-7f52-4331-b833-b8458e8e54e1",
+      "type": "cover_art"
+    },
+    "publicationDemographic": null,
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+        "name": {
+          "en": "Long Strip"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+        "name": {
+          "en": "Adventure"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+        "name": {
+          "en": "Harem"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+        "name": {
+          "en": "Fantasy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+        "name": {
+          "en": "Mystery"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Rebirth of the Water Margin World: The Strongest Wu Dalang"
+    },
+    "updatedAt": "2025-11-18T11:22:09.000Z",
+    "version": 3,
+    "year": 2025,
+    "originalLanguage": "zh",
+    "creator": {
+      "cached": false,
+      "id": "5be60d4d-886b-4d70-ad3d-d41c8087e163",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "cac1025d-2604-46ea-85f6-4ee13f2a318a",
+    "altTitles": [
+      {
+        "ja": "悪役一家の奥方、死に戻りして心を入れ替える。"
+      },
+      {
+        "ja-ro": "Akuyaku Ikka no Okugata, Shi ni Modori shite Kokoro o Irekaeru"
+      },
+      {
+        "en": "The Lady of the Villainous Family Comes Back From the Dead and Has a Change of Heart"
+      },
+      {
+        "en": "Rebirth of the Villainous Wife"
+      },
+      {
+        "ko": "악역 일가의 부인, 죽음에서 돌아와 새사람이 되다"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "4b4d6143-3cab-4fe0-a74f-34388a29fbdb",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "9bdd7eba-4edb-4038-8e22-aec4cd1990a8",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2022-11-17T07:14:20.000Z",
+    "description": {
+      "en": "The Duchess of Farrens is a prominent noble family that supports the backbone of the Kingdom of Istoward. Elaine Farrens, the duchess of Farrens, after her misdeeds and attempted usurpation of the country, finally died, her life taken by her own daughter. In her dying moments, her high pride was finally broken, and she truly regretted what she had done, but it was all in vain. The ducal family itself was destroyed, and its notoriety was to be forgotten in time.\n\nHowever, Elaine regained consciousness the next thing she knew. And what’s more, she was giving birth. She immediately realised that it was useless to try to understand her situation in such a situation, and decided to face the life in front of her, thinking about it after the birth for now.",
+      "ja": "家族に富と栄光をもたらすため、悪逆を尽くした公爵夫人エレインは自らの娘によって命を奪われた。だが、その死の間際に何の因果か30年時が巻き戻り…？我が子に親殺しをさせるという悲劇を回避するため、前世の“経験と知識”を総動員！？"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "5221f84a-34ea-43ad-8b99-1caf4a09286d",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/146307",
+      "animePlanet": "https://www.anime-planet.com/manga/akuyaku-ikka-no-okugata-shi-ni-modori-shite-kokoro-wo-irekaeru",
+      "bookWalker": "https://bookwalker.jp/series/376193/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=zt8av0h",
+      "novelUpdates": "https://www.novelupdates.com/series/rebirth-of-the-villainess-wife",
+      "myAnimeList": "https://myanimelist.net/manga/165799",
+      "kitsu": "https://kitsu.io/api/edge/manga/69064",
+      "amazon": "https://www.amazon.co.jp/dp/B0BG4VXP4H",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/721337",
+      "raw": "https://comic-walker.com/contents/detail/KDCW_KS04203205010000_68"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "877290e9-fe29-45c9-82bf-2f89e0034471",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shounen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+        "name": {
+          "en": "Magic"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+        "name": {
+          "en": "Fantasy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+        "name": {
+          "en": "Supernatural"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+        "name": {
+          "en": "Adaptation"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Akuyaku Ikka no Okugata, Shi ni Modori shite Kokoro wo Irekaeru"
+    },
+    "updatedAt": "2025-11-24T11:51:17.000Z",
+    "version": 15,
+    "year": 2022,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "60d89dcf-1df2-4f5d-9ab8-08958e5c9b74",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "d89cfcf7-dcb4-4af7-8c95-330c2c6167d0",
+    "altTitles": [
+      {
+        "ja": "屍王の帰還～元勇者の俺、自分が組織した厨二秘密結社を止めるために再び異世界に召喚されてしまう～"
+      },
+      {
+        "ja-ro": "Shio no Kikan ~Moto Yuusha no Ore, Jibun ga Soshiki Shita Chuunibyou Himitsu Kessha o Tomeru Tame ni Futatabi Isekai ni Shoukan Sarete Shimau~"
+      },
+      {
+        "en": "The Return of the Corpse King: I, a Former Hero, Have Been Summoned Back to Isekai to Stop the CHUUNI Secret Society Organized by Me"
+      },
+      {
+        "ar": "عودة ملك الجثث"
+      },
+      {
+        "ar": "عودة ملك الجثث: أنا، بطل سابق، تم استدعائي مرة أخرى لعالم آخر لإيقاف الجماعة السرية التي أنشأتها سابقاً"
+      },
+      {
+        "id": "Kembalinya Raja Mayat ~Aku, Mantan Pahlawan, Dipanggil Kembali ke Dunia Lain untuk Menghentikan Organisasi Rahasia Halu yang Aku Dirikan Sendiri~"
+      },
+      {
+        "pt-br": "O retorno do rei dos mortos"
+      },
+      {
+        "vi": "Sự Trở Lại Của Thi Vương"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "135e6885-1a91-483a-81c5-78cf879da9de",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "49fbb12d-9f28-47c6-846e-b4886238a61d",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en",
+      "ar",
+      "fr",
+      "vi",
+      "pt-br",
+      "es-la",
+      "id",
+      "tr"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2025-03-05T03:19:42.000Z",
+    "description": {
+      "ar": "\"كيف تمكنتُ في الماضي من الاستمتاع بفعل كل تلك الأشياء المحرجة بحماس كهذا؟\"\n\nعندما كان هيزاكي شيو في سنته الثالثة من المرحلة المتوسطة، تم استدعاؤه إلى عالم آخر لإنقاذه. وبعد أن هزم ملك الشياطين، أُجبر على العودة إلى عالمه في الزمن الحاضر.\n\nلكن بعد ثلاث سنوات، يتم استدعاؤه مجددًا إلى العالم الآخر، وهذه المرة لإيقاف المنظمة السرية \"هيلهايم\" التي تعيث فسادًا.\n\nتلك المنظمة كانت في الأصل من تأسيسه خلال مرحلة \"التشونيبْيو\" الخاصة به، حيث أطلق على نفسه لقب \"ملك الجثث\"—ماضٍ مظلم يشعر بإحراج شديد عند تذكره!\n\nيبدو أن شخصًا ما ينتحل اسم \"هيلهايم\" ويسيء إلى سمعته. لكشف الحقيقة وراء هذا اللغز وتبرئة اسم المنظمة، يعيد ملك الجثث لمّ شمل مرؤوسيه السابقين، وهم \"الهاكّاي\" الذين جعلوا هيلهايم أقوى مما كانت عليه من قبل.\n\nبينما يعاني من وطأة ماضيه المحرج، يبدأ بالتحرك في العالم الآخر مرة أخرى.\n\nمحطتهم الأولى: مدينة الصلب، غاغيول—إنقاذ المدينة التي تعاني من المجاعة، وكذلك مساعدة ابنة الكونت الشاحبة التي تعيش في محنة.\n\n\"!هيلهايم، تتحرك\"",
+      "en": "\"How can my past self get so excited doing all those embarrassing things?!\"\n\nWhen he was in the third year of middle school, Hizaki Shiou was summoned to another world to save it. After defeating the Demon King, he was forcibly returned back to the present day. Yet another three years later, he is summoned to the other world once again, this time to stop the rampage of the secret society \"Helheim.\"\n\nThat organization was supposedly actually the one that he had founded during his *chuunibyou* phase, where he called himself the \"Corpse King\"—a dark past too embarrassing to remember!\n\nSomeone seems to be impersonating the name of \"Helheim\" and tarnishing its reputation. To uncover the truth behind this mystery and clear the organization's name, the Corpse King reunites with his former subordinates, the \"Hakkai,\" who once made Helheim the strongest it had ever been. While agonizing over his dark past, he begins to take action in the other world once again.\n\nTheir first stop is the Steel City of Gagiul—rescue the city struggling through famine as well as the pale-looking count's daughter in distress.\n\n\"Helheim, moving out.\"",
+      "id": "\"𝗔𝗸𝘂 𝗯𝗲𝗻𝗮𝗿-𝗯𝗲𝗻𝗮𝗿 𝗺𝗲𝗿𝗶𝗻𝗱𝗶𝗻𝗴 𝘀𝗮𝗮𝘁 𝗿𝗲𝘂𝗻𝗶 𝗹𝗮𝗴𝗶 𝗱𝗲𝗻𝗴𝗮𝗻 \"𝗛𝗮𝗸𝗸𝗮𝗶\", 𝗽𝗲𝗻𝗴𝗶𝗸𝘂𝘁 𝘁𝗲𝗿𝗸𝘂𝗮𝘁 𝘆𝗮𝗻𝗴 𝘀𝘂𝗱𝗮𝗵 𝗹𝗮𝗺𝗮 𝗺𝗲𝗻𝘂𝗻𝗴𝗴𝘂 𝗧𝗵𝗲 𝗖𝗼𝗿𝗽𝘀𝗲 𝗞𝗶𝗻𝗴! 𝗠𝗲𝘀𝗸𝗶 𝗺𝗮𝗹𝘂 𝗱𝗲𝗻𝗴𝗮𝗻 𝘀𝗲𝘁𝘁𝗶𝗻𝗴 𝗰𝗵𝘂𝘂𝗻𝗶𝗯𝘆𝗼𝘂 𝘆𝗮𝗻𝗴 𝗱𝗶𝗮 𝗰𝗲𝘁𝘂𝘀 𝗱𝘂𝗹𝘂, 𝗰𝗲𝗿𝗶𝘁𝗮𝗻𝘆𝗮 𝘆𝗮𝗻𝗴 𝗺𝗲𝗻𝗴𝗴𝘂𝗻𝗰𝗮𝗻𝗴 𝗶𝘀𝗲𝗸𝗮𝗶 𝗱𝗲𝗻𝗴𝗮𝗻 𝗸𝗲𝗸𝘂𝗮𝘁𝗮𝗻 𝘆𝗮𝗻𝗴 𝗹𝘂𝗮𝗿 𝗯𝗶𝗮𝘀𝗮 𝘀𝗮𝗻𝗴𝗮𝘁 𝗳𝗿𝗲𝘀𝗵!\"\n\nDipanggil lagi ke isekai enggak akan membangkitkan jiwa chuuni yang dulu, kan? Komedi memalukan yang bikin cringe sendiri di isekai dengan sejarah kelamnya!\n\n\"Aku pikir manusia bisa mati karena rasa malu suatu hari nanti...\"\n\nSaat kelas 2 SMP, Hizaki Shio dipanggil ke isekai dan menyelamatkan dunia sebagai pahlawan. Setelah mengalahkan Raja Iblis dan dipulangkan paksa ke masa kini, lima tahun kemudian dia dipanggil lagi ke isekai. untuk menghentikan amukan organisasi rahasia bernama \"Helheim\".\n\nNamun sebenarnya, organisasi itu adalah sejarah kelam chuunibyou yang dulu dia buat saat menyebut dirinya sebagai \"The Corpse King\"!?\n\nKenapa Helheim mengacau, dan siapa yang menyebarkan reputasi buruk? Sambil mengumpulkan kembali pengikut terkuat \"Hakkai\", Corpse King mulai bergerak lagi di isekai untuk membersihkan nama organisasi itu—sambil malu dengan sejarah chuunibyou-nya...\n\nPertama-tama, Kota Baja Gagiul. Selamatkan kota yang menderita kekurangan segala hal dan gadis bangsawan berambut perak yang sedang dalam kesulitan.\n\n\"――Helheim, mulai operasi!\"",
+      "ja": "「よくもまあ昔の俺は、こんな恥ずかしいことノリノリでやってたよ!」\n中学三年生のとき、異世界に召喚され世界を救った勇者、日崎司央。悪魔王を倒し現代に強制送還された彼は、その三年後、今再び異世界に召喚される。秘密結社「ヘルヘイム」の暴走を止めるために――。\nしかし、実はその組織、かつて厨二病を患っていた彼が「屍王」と名乗り組織した、思い出すも恥ずかしい黒歴史だった!?\n一体誰が\"\"ヘルヘイム\"\"の名を騙り、悪名を振りまいているのか。その謎を解き明かし組織の汚名を返上すべく、屍王はかつてヘルヘイムを最強たらしめた幹部「八戒」を再集結させ、再び異世界で行動を開始する――黒歴史に悶えながら……。\nまずは鉄鋼都市ガギウル。不作に喘ぐ街と窮地に立つ鈍色の伯爵令嬢を救出せよ。\n「――ヘルヘイム、作戦開始だ」",
+      "pt-br": "“Como meu eu do passado conseguia ficar tão empolgado fazendo todas aquelas coisas constrangedoras?!”\n\nQuando estava no terceiro ano do ensino médio, Hizaki Shio foi invocado para outro mundo com a missão de salvá-lo. Após derrotar o Rei Demônio, foi forçado a retornar ao presente. Três anos depois, é invocado novamente para o mesmo mundo, desta vez para conter a fúria da sociedade secreta “Helheim”.\n\nSupostamente, essa organização seria, na verdade, a mesma que ele fundou durante sua fase de chuunibyou, quando se autodenominava “Corpse King” — um passado sombrio e embaraçoso demais para lembrar!\n\nAgora, alguém está se passando por “Helheim” e manchando seu nome. Para descobrir a verdade por trás desse mistério e restaurar a reputação da organização, o Corpse King reúne seus antigos subordinados, os “Hakkai”, responsáveis por tornar Helheim a força mais poderosa que já existiu. Enquanto relembra seu passado obscuro, ele retorna à ação naquele outro mundo.\n\nA primeira parada é a Cidade de Aço de Gagiul — onde precisa resgatar uma população assolada pela fome e a filha pálida do conde, que está em apuros.\n\n“Helheim, partindo.”"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "0818f85f-bded-4610-831b-4b77d09d9961",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/187863",
+      "animePlanet": "https://www.anime-planet.com/manga/shikabane-ou-no-kikan",
+      "bookWalker": "https://bookwalker.jp/series/537048/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=ind91y4",
+      "novelUpdates": "https://www.novelupdates.com/series/the-return-of-the-corpse-king-i-the-former-hero-summoned-once-again-to-another-world-to-stop-the-chuunibyou-secret-society-i-formed",
+      "myAnimeList": "https://myanimelist.net/manga/179652",
+      "kitsu": "https://kitsu.io/api/edge/manga/74555",
+      "amazon": "https://www.amazon.co.jp/dp/B0FH17LPDF",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/911540",
+      "raw": "https://comic-walker.com/detail/KC_006398_S"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "8bbed379-5cb6-40cc-bdbd-c46b281d9164",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "shounen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+        "name": {
+          "en": "Monsters"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+        "name": {
+          "en": "Action"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+        "name": {
+          "en": "Demons"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+        "name": {
+          "en": "Adventure"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+        "name": {
+          "en": "Magic"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+        "name": {
+          "en": "Harem"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "ace04997-f6bd-436e-b261-779182193d3d",
+        "name": {
+          "en": "Isekai"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+        "name": {
+          "en": "Fantasy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+        "name": {
+          "en": "Adaptation"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Shio no Kikan ~Moto Yuusha no Ore, Jibun ga Soshiki Shita Chuunibyou Himitsu Kessha wo Tomeru Tame ni Futatabi Isekai ni Shoukan Sarete Shimau~"
+    },
+    "updatedAt": "2025-10-18T10:35:49.000Z",
+    "version": 35,
+    "year": 2025,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "0a6ad29f-7a6f-4dd3-8860-965c2ce4e81a",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  },
+  {
+    "id": "3e1349bd-ee65-4d2c-9945-da3d577bddd9",
+    "altTitles": [
+      {
+        "ja": "アズールレーン コミックアンソロジー Breaking!!"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "0256d93a-582b-4efc-aaa9-878c03128b50",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "0294ba29-0d63-4040-9ab0-ae82e170de61",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "02fb3318-2401-4707-adf9-6b7c77e5dce4",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "04e78ca1-e06c-4ec6-8574-3db131731b9a",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "0b2ae641-7060-4b1e-8881-146d4e3d0917",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "0f5cfa85-c71b-41e9-9ddf-16481b71a93d",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "11f07583-2777-4133-88be-612cc4680380",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "1c6ea209-4277-4e4e-b675-63196e1965c4",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "1d4b9696-b26f-41dc-857d-bd7acbefda75",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "23ae03ed-dbae-41b5-8284-60e5995ecfc6",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "28149e63-3709-4d3c-85b4-8fa2bb06e4e5",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "2f77b15d-fa02-4382-bd5e-4928f9431565",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "3407561f-b009-4d9b-8690-3142f09fdefc",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "3cd04a38-b7e1-4e4b-9745-6098226f0186",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "3e851a08-b55c-4b50-858f-761b2d5cd189",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "3e9b6212-b984-49e8-819f-8403831b222a",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "40df0d36-bbd0-4960-8800-6a72014b2a23",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "46bdf9ef-fba5-4796-8782-55d7a37cfe39",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "4f82bb99-612c-44a1-b0f7-58bdc07e32a9",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "53e89577-e90c-4ff0-8869-9e632ef504bf",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "54afc776-70e6-482c-a24f-8e592ba30ce5",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "557644eb-1b87-4fa5-92a8-0f45130ea3a4",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "57084267-059e-463f-9b0f-26875c57d7d6",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "57818dbd-a57e-4888-aedd-b8e770eaf444",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "59f970c7-776d-48bd-9456-da33b5646e06",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "5f43fd92-5f35-4f69-83fc-8bc3c66f3bb6",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "64d4fb6f-91a7-4760-a163-2f6b7c4d5758",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "711bbf7d-05a8-4d0b-9ae4-347adea99237",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "72fbd6c1-5bbf-4e03-839d-5bc8b30225d6",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "77abbc3b-83ef-46b3-afe6-9e057435788a",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "79846272-e8b7-495f-8e80-6073180e6beb",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "7eb2f6fe-5036-4942-8b86-2e7165fe3da9",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "85e216ab-f024-4f4c-874f-4a751ddd84a1",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "898397ab-ad10-4d46-8461-6a8773373714",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "93b268ec-757f-4765-97bd-1d533248502c",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "a0001e37-95b7-478a-b95d-26ea1226ea8b",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "a83e0bc1-7b37-4178-8603-05aff7c48346",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "aa72e4cf-53a1-49a0-9978-49eaa43ce56f",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "af37a6b7-0879-4891-9af6-00cf881c5092",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "b799f05f-85ea-49b3-9e00-f480703dde95",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "b98f9201-d137-4bc6-aba3-e70b5779c91b",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "bce7e58f-f392-4f86-a5db-1c8ea93f7a75",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "be8a8170-8bff-4c5d-886c-6d661e7922ed",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "c0883cae-57c8-4911-b4ab-9811838aed44",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "c83ec623-bf33-4511-b4c6-7aee3ad3e7ad",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "cfca295c-e203-4c6f-89fa-902476de5ccb",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "d06a795f-7db0-4d9a-adbb-01013031e9b9",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "d17ed0be-11a0-428e-9612-6c5574323403",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "da8e0fe0-863f-4367-8ae6-96141f73fccf",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "e443b5ed-c88d-4951-9be5-02ae0e6c018c",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "e44b6ae7-d614-4294-9b94-1efd5a292ff5",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "ede7a2c0-3d70-4bf7-8eaf-d7c48aaf5f98",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "f14a327e-015b-4ea0-8fa6-0a061e36cff4",
+        "type": "artist"
+      },
+      {
+        "cached": false,
+        "id": "f31e1868-0f0c-4b09-8fc2-d1788bfc6f3a",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "01ba358c-9d75-4307-b766-ec4d4aec48f2",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "0256d93a-582b-4efc-aaa9-878c03128b50",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "0294ba29-0d63-4040-9ab0-ae82e170de61",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "02fb3318-2401-4707-adf9-6b7c77e5dce4",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "04e78ca1-e06c-4ec6-8574-3db131731b9a",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "0b2ae641-7060-4b1e-8881-146d4e3d0917",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "0f5cfa85-c71b-41e9-9ddf-16481b71a93d",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "11f07583-2777-4133-88be-612cc4680380",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "1c6ea209-4277-4e4e-b675-63196e1965c4",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "1d4b9696-b26f-41dc-857d-bd7acbefda75",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "23ae03ed-dbae-41b5-8284-60e5995ecfc6",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "28149e63-3709-4d3c-85b4-8fa2bb06e4e5",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "2f77b15d-fa02-4382-bd5e-4928f9431565",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "3407561f-b009-4d9b-8690-3142f09fdefc",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "3cd04a38-b7e1-4e4b-9745-6098226f0186",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "3e851a08-b55c-4b50-858f-761b2d5cd189",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "3e9b6212-b984-49e8-819f-8403831b222a",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "40df0d36-bbd0-4960-8800-6a72014b2a23",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "46bdf9ef-fba5-4796-8782-55d7a37cfe39",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "4f82bb99-612c-44a1-b0f7-58bdc07e32a9",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "53e89577-e90c-4ff0-8869-9e632ef504bf",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "54afc776-70e6-482c-a24f-8e592ba30ce5",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "557644eb-1b87-4fa5-92a8-0f45130ea3a4",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "57084267-059e-463f-9b0f-26875c57d7d6",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "57818dbd-a57e-4888-aedd-b8e770eaf444",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "59f970c7-776d-48bd-9456-da33b5646e06",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "5f43fd92-5f35-4f69-83fc-8bc3c66f3bb6",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "64d4fb6f-91a7-4760-a163-2f6b7c4d5758",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "711bbf7d-05a8-4d0b-9ae4-347adea99237",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "72fbd6c1-5bbf-4e03-839d-5bc8b30225d6",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "77abbc3b-83ef-46b3-afe6-9e057435788a",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "79846272-e8b7-495f-8e80-6073180e6beb",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "7eb2f6fe-5036-4942-8b86-2e7165fe3da9",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "85e216ab-f024-4f4c-874f-4a751ddd84a1",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "898397ab-ad10-4d46-8461-6a8773373714",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "93b268ec-757f-4765-97bd-1d533248502c",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "a0001e37-95b7-478a-b95d-26ea1226ea8b",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "a83e0bc1-7b37-4178-8603-05aff7c48346",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "aa72e4cf-53a1-49a0-9978-49eaa43ce56f",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "af37a6b7-0879-4891-9af6-00cf881c5092",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "b799f05f-85ea-49b3-9e00-f480703dde95",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "b98f9201-d137-4bc6-aba3-e70b5779c91b",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "bce7e58f-f392-4f86-a5db-1c8ea93f7a75",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "be8a8170-8bff-4c5d-886c-6d661e7922ed",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "c0883cae-57c8-4911-b4ab-9811838aed44",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "c83ec623-bf33-4511-b4c6-7aee3ad3e7ad",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "cfca295c-e203-4c6f-89fa-902476de5ccb",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "d06a795f-7db0-4d9a-adbb-01013031e9b9",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "d17ed0be-11a0-428e-9612-6c5574323403",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "da8e0fe0-863f-4367-8ae6-96141f73fccf",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "e443b5ed-c88d-4951-9be5-02ae0e6c018c",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "e44b6ae7-d614-4294-9b94-1efd5a292ff5",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "f14a327e-015b-4ea0-8fa6-0a061e36cff4",
+        "type": "author"
+      },
+      {
+        "cached": false,
+        "id": "f31e1868-0f0c-4b09-8fc2-d1788bfc6f3a",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en",
+      "th",
+      "vi"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "suggestive",
+    "createdAt": "2020-11-21T12:02:37.000Z",
+    "description": {
+      "en": "Breaking news!!  A new series to bring you the latest events and characters from the game \"Azur Lane\" as fast as possible! \nBringing you plenty of comics to make you love Azur Lane even more!\n\n---\n**Volume 1**\n**Cover**: Noy\n**Back cover**: Haniro (はにろ)\n**Title page**: [Daiji](https://mangadex.org/author/01fb4a88-6d6f-4bd5-a99a-dd93ca65eabf)\n**Illustrations**: Kou, Miwano Rag (美和野らぐ), Sora Nani Iro (そらなにいろ), [Amamiya Yuki](https://mangadex.org/author/35605c00-896a-44d3-bc54-c4cfe63251f2)\n\n**Author list**:\n1. Tousaki Shiina\n2. fujy & Shutora\n3. Asakawa\n4. Kanda Dan\n5. Yamaguchi\n6. Takahara Yu\n7. Aku\n8. Left Hand\n9. Hoeru Tarou\n10. Mito\n11. Morimoto Kiyona\n12. Maeba\n13. Batsu\n---\n**Volume 2**\n**Cover**: Monda (孟達)\n**Back cover**: Mai (米)\n**Title page**: [Toudori](https://mangadex.org/author/4305df9a-f053-4e28-b7d6-320ed32a3ba5)\n**Illustrations**: Rangen (らんげん), Hachiroku (はちろく), Amagasa Yun (雨傘ゆん), nanamu\n\n**Author list**:\n1. fujy & Shutora\n2. Kirie\n3. Left Hand\n4. Suzuki-san\n5. Kurokawa Otogi\n6. Takahara Yu\n7. Yamaguchi\n8. Aku\n9. 35machi\n10. Mito\n11. Endou\n12. Hasegawa (Hasegawa Sanji)\n13. Yappen\n14. Morimoto Kiyona\n---\n**Volume 3**\n**Cover**: Xe\n**Back cover**: [Purapa](https://mangadex.org/author/843d5798-780d-45fb-a6fd-36a7371cd066)\n**Title page**: nanamu\n**Illustrations**: Tomochi (ともち), Esuka Rugo (絵空るご), Solaris, 2SHAM\n\n**Author list**:\n1. Takahara Yu\n2. Upanishi\n3. fujy & Shutora\n4. Batsu\n5. Tousaki Shiina\n6. Left Hand\n7. Aku\n8. Yamaguchi\n9. Mito\n10. Mameneko\n11. Kawaraya\n12. Hasegawa (Hasegawa Sanji)\n13. ababari\n---\n**Volume 4**\n**Cover**: UTHY\n**Back cover**: Sudango (酢だんご)\n**Title page**: [Batsu](https://mangadex.org/author/23ae03ed-dbae-41b5-8284-60e5995ecfc6)\n**Illustrations**: Tarachine (たらちね), Tonchan (とんちゃん)\n\n**Author list**:\n1. Asakawa\n2. Takahara Yu\n3. Tokufumi\n4. Left Hand\n5. Oohira Sunset\n6. Mito\n7. fujy & Shutora\n8. Nakano Sora\n9. Fuurai\n10. Nakao Ham\n11. 3104\n12. Aku\n13. Ushiro Muki\n14. Kakino Nashiko\n15. Ochiaki\n---\n**Volume 5**\n**Cover**: [kakao](https://mangadex.org/author/2aa95bec-e04e-46db-b63b-11472d40203e)\n**Back cover**: [pote](https://mangadex.org/author/13cb5b6f-1a87-4ac7-8186-d6468e41f81c)\n**Title page**: [Rokushou Kokuu](https://mangadex.org/author/1b6d5e0c-cdbc-4174-aff2-fa98a9d1738e)\n**Illustrations**: [Higashioji Mutsuki](https://mangadex.org/author/bba6508f-336f-4afb-acf4-d90fce8fee20), Dabi (ダービー)\n\n**Author list**:\n1. Ueno Ryou\n2. Binsen\n3. Batsu\n4. Morino Harifu\n5. 3104\n6. Takahara Yu\n7. Mito\n8. Ushiro Muki\n9. Aku\n10. Shiworiita\n11. Muunyan\n12. Yuki Shizuku\n13. Fumii\n14. Kakino Nashiko\n15. Leafpie\n16. Miginohito Mitsuru\n---\n**Volume 6**\n**Cover**: [Hori](https://mangadex.org/author/fe546044-b115-43ee-9ef8-2e2c81e110f7)\n**Back cover**: [Kamoto Tatsuya](https://mangadex.org/author/d263a9f7-3e9d-493c-8f8b-772b69996f97)\n**Title page**: [Left Hand](https://mangadex.org/author/c0883cae-57c8-4911-b4ab-9811838aed44)\n**Illustrations**: CheLA77, Kikurage Tom (きくらげとむ。)\n\n**Author list**:\n1. Takahara Yu\n2. Awayume\n3. Miso Tanuki\n4. 3104\n5. Regu 95\n6. Ushiro Muki\n7. Ashida Yuri\n8. Ueno Ryou\n9. Varios\n10. Kurou\n11. Mito\n12. Oriue Wato\n13. Himeno Arata\n14. Aku\n15. Muunyan\n16. Cobra no Oyatsu\n---\n**Volume 7**\n**Cover**: [Hoeru Tarou](https://mangadex.org/author/c83ec623-bf33-4511-b4c6-7aee3ad3e7ad)\n**Back cover**: Peroppafu (ぺろっぱふ)\n**Title page**: [Mogi Yasunobu](https://mangadex.org/author/f52a88a5-af1f-45a6-a9fb-1f2b86f0061a)\n**Illustrations**: [Morino Harifu](https://mangadex.org/author/1c6ea209-4277-4e4e-b675-63196e1965c4), [Kamoto Tatsuya](https://mangadex.org/author/d263a9f7-3e9d-493c-8f8b-772b69996f97)\n\n**Author list**:\n1. Takahara Yu\n2. R_ringo\n3. Shiworiita\n4. Oriue Wato\n5. Shirouzu Myuuta\n6. Cobra no Oyatsu\n7. Aku\n8. Shimotsuki Shio\n9. Mito\n10. Fumii\n11. Regu 95\n12. Awayume\n13. Batsu"
+    },
+    "isLocked": false,
+    "lastChapter": "114",
+    "lastVolume": "8",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "27ae1e57-62ed-4552-9212-a8140c439ba1",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/125503",
+      "animePlanet": "https://www.anime-planet.com/manga/azur-lane-comic-anthology-breaking",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=ggajeeb",
+      "myAnimeList": "https://myanimelist.net/manga/131220",
+      "raw": "http://www.ichijinsha.co.jp/azurlane/anthology/"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "85291345-417f-4fe6-967c-334e632186c0",
+      "type": "cover_art"
+    },
+    "publicationDemographic": null,
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [
+        {
+          "cached": false,
+          "id": "084f390c-e8b1-471a-aa68-2aa29d454ec6",
+          "type": "manga",
+          "related": "same_franchise"
+        },
+        {
+          "cached": false,
+          "id": "346ddf41-7536-43fa-999f-837bcde7a237",
+          "type": "manga",
+          "related": "same_franchise"
+        },
+        {
+          "cached": false,
+          "id": "4259cfdd-2a81-41aa-91d0-a5d44275d6cc",
+          "type": "manga",
+          "related": "same_franchise"
+        },
+        {
+          "cached": false,
+          "id": "d52a2ce5-5ea1-4bef-9a0e-58519caaecd8",
+          "type": "manga",
+          "related": "same_franchise"
+        }
+      ],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "completed",
+    "tags": [
+      {
+        "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+        "name": {
+          "en": "Romance"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+        "name": {
+          "en": "Comedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+        "name": {
+          "en": "Anthology"
+        },
+        "description": {
+
+        },
+        "group": "format",
+        "version": 1
+      },
+      {
+        "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+        "name": {
+          "en": "Video Games"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+        "name": {
+          "en": "Harem"
+        },
+        "description": {
+
+        },
+        "group": "theme",
+        "version": 1
+      },
+      {
+        "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+        "name": {
+          "en": "Slice of Life"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Azur Lane Comic Anthology Breaking!!"
+    },
+    "updatedAt": "2025-11-15T17:21:23.000Z",
+    "version": 27,
+    "year": 2020,
+    "originalLanguage": "ja",
+    "creator": null,
+    "officialLinks": {
+
+    }
+  }
+]

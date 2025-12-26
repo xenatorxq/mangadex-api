@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MangaDex API Project Documentation</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        header {
+            border-bottom: 2px solid #ddd;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+        }
+        h1 { color: #2c3e50; }
+        h2 { color: #2980b9; border-bottom: 1px solid #eee; padding-bottom: 5px; margin-top: 30px; }
+        .endpoint {
+            background: #fff;
+            padding: 15px;
+            margin-bottom: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .method {
+            font-weight: bold;
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 4px;
+            margin-right: 10px;
+            display: inline-block;
+            min-width: 60px;
+            text-align: center;
+        }
+        .get { background: #27ae60; }
+        .path {
+            font-family: monospace;
+            font-size: 1.1em;
+            color: #c0392b;
+        }
+        .description { margin-top: 10px; font-style: italic; margin-bottom: 10px; }
+        .example-header {
+            font-weight: bold;
+            color: #7f8c8d;
+            font-size: 0.85em;
+            text-transform: uppercase;
+            margin-top: 15px;
+            display: block;
+        }
+        pre {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 12px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        code { font-family: "Courier New", Courier, monospace; }
+        .tip {
+            background: #fff3cd;
+            border-left: 5px solid #ffecb5;
+            padding: 10px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MangaDex API Documentation</h1>
+        <p>A comprehensive API for manga readers. Uses a single project account for authenticated requests.</p>
+    </header>
+
+    <div class="tip">
+        <strong>Tip:</strong> 
+        <ul>
+            <li>To find a <strong>Manga ID</strong>, use the <code>/manga</code> search endpoint.</li>
+            <li>To find a <strong>Chapter ID</strong> or <strong>Group ID</strong>, use the <code>/manga/:id/feed</code> endpoint for that manga.</li>
+        </ul>
+    </div>
+
+    <section>
+        <h2>Manga & Chapters</h2>
+        
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/manga</span>
+            <div class="description">Search and list manga. Use this to find a <strong>Manga ID</strong>.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>[
+  {
+    "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+    "altTitles": [
+      {
+        "ja": "レプリカ　元妻の復讐"
+      }
+    ],
+    "artists": [
+      {
+        "cached": false,
+        "id": "09580767-3168-4b71-862b-627bc2211484",
+        "type": "artist"
+      }
+    ],
+    "authors": [
+      {
+        "cached": false,
+        "id": "2a204c08-6036-4e9c-b785-dfb708e3bf53",
+        "type": "author"
+      }
+    ],
+    "availableTranslatedLanguages": [
+      "en"
+    ],
+    "chapterNumbersResetOnNewVolume": false,
+    "contentRating": "safe",
+    "createdAt": "2022-03-05T20:45:42.000Z",
+    "description": {
+      "en": "Sumire was once bullied and cursed as \"ugly\". Without worrying about her appearance, she marries an ideal man who loves her. But one day, he cheats on another woman with a beautiful appearance and declares a divorce on her...\n\nWhat's more, the woman was her main culprit, who once bullied Sumire. Now with a new identity, Violet vows her revenge on the woman who robbed her of her man and her husband who abandoned herself. Her fierce revenge begins on the woman who c ...[Truncated]",
+      "ja": "かつて「ブス」と虐められ、罵られていたすみれ。 容姿を気にせず、自分を愛してくれる理想の男性と結婚するが、彼は美しい容姿を持った別の女に浮気し、離婚してしまう…。 しかも偶然にもその女は、かつてすみれのことを虐めていた主犯、その人であった―――。 自分から男を奪った女、そして自分を捨てた旦那へ復讐を誓うすみれ。 顔を変 ...[Truncated]"
+    },
+    "isLocked": false,
+    "lastChapter": "",
+    "lastVolume": "",
+    "latestUploadedChapter": {
+      "cached": false,
+      "id": "75e8fd7d-3e46-4f8a-8670-902d52724932",
+      "type": "chapter"
+    },
+    "links": {
+      "anilist": "https://anilist.co/manga/162557",
+      "bookWalker": "https://bookwalker.jp/series/285848/list",
+      "mangaUpdates": "https://www.mangaupdates.com/series.html?id=fj0z3b7",
+      "myAnimeList": "https://myanimelist.net/manga/189236",
+      "amazon": "https://www.amazon.co.jp/dp/B094J5RBTM",
+      "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/621699",
+      "raw": "https://mangahot.jp/site/works/t_R0018",
+      "officialEnglishTranslation": "https://mangaplaza.com/title/0303009771/"
+    },
+    "mainCover": {
+      "cached": false,
+      "id": "e4b524ab-48f4-4c91-96b9-a08b3ffdacc2",
+      "type": "cover_art"
+    },
+    "publicationDemographic": "seinen",
+    "relatedManga": {
+      "monochrome": [],
+      "main_story": [],
+      "adapted_from": [],
+      "based_on": [],
+      "prequel": [],
+      "side_story": [],
+      "doujinshi": [],
+      "same_franchise": [],
+      "shared_universe": [],
+      "sequel": [],
+      "spin_off": [],
+      "alternate_story": [],
+      "alternate_version": [],
+      "preserialization": [],
+      "colored": [],
+      "serialization": []
+    },
+    "state": "published",
+    "status": "ongoing",
+    "tags": [
+      {
+        "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+        "name": {
+          "en": "Thriller"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+        "name": {
+          "en": "Psychological"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+        "name": {
+          "en": "Drama"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      },
+      {
+        "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+        "name": {
+          "en": "Tragedy"
+        },
+        "description": {
+
+        },
+        "group": "genre",
+        "version": 1
+      }
+    ],
+    "title": {
+      "en": "Repurika - Moto Tsuma no Fukushuu"
+    },
+    "updatedAt": "2025-12-05T17:01:22.000Z",
+    "version": 13,
+    "year": 2020,
+    "originalLanguage": "ja",
+    "creator": {
+      "cached": false,
+      "id": "32dcf14c-dd02-4fa7-9b40-b330c395f75b",
+      "type": "creator"
+    },
+    "officialLinks": {
+
+    }
+  }
+]</code></pre>
+        </div>
+
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/manga/:id</span>
+            <div class="description">Get detailed info for a manga.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>{
+  "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+  "altTitles": [
+    {
+      "ja": "レプリカ　元妻の復讐"
+    }
+  ],
+  "artists": [
+    {
+      "cached": false,
+      "id": "09580767-3168-4b71-862b-627bc2211484",
+      "type": "artist"
+    }
+  ],
+  "authors": [
+    {
+      "cached": false,
+      "id": "2a204c08-6036-4e9c-b785-dfb708e3bf53",
+      "type": "author"
+    }
+  ],
+  "availableTranslatedLanguages": [
+    "en"
+  ],
+  "chapterNumbersResetOnNewVolume": false,
+  "contentRating": "safe",
+  "createdAt": "2022-03-05T20:45:42.000Z",
+  "description": {
+    "en": "Sumire was once bullied and cursed as \"ugly\". Without worrying about her appearance, she marries an ideal man who loves her. But one day, he cheats on another woman with a beautiful appearance and declares a divorce on her...\n\nWhat's more, the woman was her main culprit, who once bullied Sumire. Now with a new identity, Violet vows her revenge on the woman who robbed her of her man and her husband who abandoned herself. Her fierce revenge begins on the woman who cha ...[Truncated]",
+    "ja": "かつて「ブス」と虐められ、罵られていたすみれ。 容姿を気にせず、自分を愛してくれる理想の男性と結婚するが、彼は美しい容姿を持った別の女に浮気し、離婚してしまう…。 しかも偶然にもその女は、かつてすみれのことを虐めていた主犯、その人であった―――。 自分から男を奪った女、そして自分を捨てた旦那へ復讐を誓うすみれ。 顔を変 ...[Truncated]"
+  },
+  "isLocked": false,
+  "lastChapter": "",
+  "lastVolume": "",
+  "latestUploadedChapter": {
+    "cached": false,
+    "id": "75e8fd7d-3e46-4f8a-8670-902d52724932",
+    "type": "chapter"
+  },
+  "links": {
+    "anilist": "https://anilist.co/manga/162557",
+    "bookWalker": "https://bookwalker.jp/series/285848/list",
+    "mangaUpdates": "https://www.mangaupdates.com/series.html?id=fj0z3b7",
+    "myAnimeList": "https://myanimelist.net/manga/189236",
+    "amazon": "https://www.amazon.co.jp/dp/B094J5RBTM",
+    "eBookJapan": "https://ebookjapan.yahoo.co.jp/books/621699",
+    "raw": "https://mangahot.jp/site/works/t_R0018",
+    "officialEnglishTranslation": "https://mangaplaza.com/title/0303009771/"
+  },
+  "mainCover": {
+    "cached": false,
+    "id": "e4b524ab-48f4-4c91-96b9-a08b3ffdacc2",
+    "type": "cover_art"
+  },
+  "publicationDemographic": "seinen",
+  "relatedManga": {
+    "monochrome": [],
+    "main_story": [],
+    "adapted_from": [],
+    "based_on": [],
+    "prequel": [],
+    "side_story": [],
+    "doujinshi": [],
+    "same_franchise": [],
+    "shared_universe": [],
+    "sequel": [],
+    "spin_off": [],
+    "alternate_story": [],
+    "alternate_version": [],
+    "preserialization": [],
+    "colored": [],
+    "serialization": []
+  },
+  "state": "published",
+  "status": "ongoing",
+  "tags": [
+    {
+      "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+      "name": {
+        "en": "Thriller"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    },
+    {
+      "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+      "name": {
+        "en": "Psychological"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    },
+    {
+      "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+      "name": {
+        "en": "Drama"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    },
+    {
+      "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+      "name": {
+        "en": "Tragedy"
+      },
+      "description": {
+
+      },
+      "group": "genre",
+      "version": 1
+    }
+  ],
+  "title": {
+    "en": "Repurika - Moto Tsuma no Fukushuu"
+  },
+  "updatedAt": "2025-12-05T17:01:22.000Z",
+  "version": 13,
+  "year": 2020,
+  "originalLanguage": "ja",
+  "creator": {
+    "cached": false,
+    "id": "32dcf14c-dd02-4fa7-9b40-b330c395f75b",
+    "type": "creator"
+  },
+  "officialLinks": {
+
+  }
+}</code></pre>
+        </div>
+
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/manga/:id/feed</span>
+            <div class="description">Get the chapter feed for a specific manga. Use this to find a <strong>Chapter ID</strong> or <strong>Group ID</strong>.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>[
+  {
+    "id": "215389fe-69b1-4c3e-b38b-3aa562428186",
+    "title": "The Language of Clovers",
+    "volume": "1",
+    "chapter": "1",
+    "pages": 17,
+    "translatedLanguage": "en",
+    "uploader": {
+      "cached": false,
+      "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+      "type": "user"
+    },
+    "externalUrl": null,
+    "version": 9,
+    "createdAt": "2025-11-17T11:53:06.000Z",
+    "publishAt": "2025-11-17T11:53:07.000Z",
+    "updatedAt": "2025-11-23T14:35:28.000Z",
+    "readableAt": "2025-11-17T11:53:07.000Z",
+    "isExternal": false,
+    "manga": {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    },
+    "groups": [],
+    "isUnavailable": false
+  }
+]</code></pre>
+        </div>
+
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/chapter/:id</span>
+            <div class="description">Get metadata for a single chapter.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>{
+  "id": "5be5d09a-0d97-4fca-b84c-8520fadd379a",
+  "title": "Present",
+  "volume": "2",
+  "chapter": "11",
+  "pages": 16,
+  "translatedLanguage": "en",
+  "uploader": {
+    "cached": false,
+    "id": "93a2483c-a27b-4e65-99f3-f541ca30347a",
+    "type": "user"
+  },
+  "externalUrl": null,
+  "version": 3,
+  "createdAt": "2025-12-07T03:45:36.000Z",
+  "publishAt": "2025-12-07T03:47:01.000Z",
+  "updatedAt": "2025-12-07T03:48:46.000Z",
+  "readableAt": "2025-12-07T03:47:01.000Z",
+  "isExternal": false,
+  "manga": {
+    "cached": false,
+    "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+    "type": "manga"
+  },
+  "groups": [],
+  "isUnavailable": false
+}</code></pre>
+        </div>
+
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/at-home/server/:chapterId</span>
+            <div class="description">Get readable page image URLs.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>{
+  "pages": [
+    "https://cmdxd98sb0x3yprd.mangadex.network/data/beb588ffbb8437e302954ac8ea57ff7e/1-fa45f9a19be1d13ed440a59cc1e7dc8fdf56068160015ae46f87b0a9eeb708fb.png",
+    "https://cmdxd98sb0x3yprd.mangadex.network/data/beb588ffbb8437e302954ac8ea57ff7e/2-f103937672c5264584546a5d8657130f05c081cec1d319f23a61389ebd0104d5.png",
+    ...
+  ]
+}</code></pre>
+        </div>
+    </section>
+
+    <section>
+        <h2>Authors, Artists & Groups</h2>
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/author/:id</span>
+            <div class="description">Get author info.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>{
+  "id": "09580767-3168-4b71-862b-627bc2211484",
+  "name": "Hiraihacchi",
+  "imageUrl": null,
+  "biography": {},
+  "twitter": null,
+  "pixiv": null,
+  "melonBook": null,
+  "fanBox": null,
+  "booth": null,
+  "nicoVideo": null,
+  "skeb": null,
+  "fantia": null,
+  "tumblr": null,
+  "youtube": null,
+  "weibo": null,
+  "naver": null,
+  "namicomi": null,
+  "website": null,
+  "version": 1,
+  "createdAt": "2022-03-05T20:28:32.000Z",
+  "updatedAt": "2022-03-05T20:28:32.000Z",
+  "manga": [
+    {
+      "cached": false,
+      "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+      "type": "manga"
+    }
+  ]
+}</code></pre>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/group/:id</span>
+            <div class="description">Get scanlation group info.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>{
+  "id": "79038330-4928-4803-9c36-ed46c9075c5d",
+  "name": "TCB Scans",
+  "website": "https://tcbscans.com/"
+}</code></pre>
+        </div>
+    </section>
+
+    <section>
+        <h2>Covers & Artwork</h2>
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/cover</span>
+            <div class="description">Search and filter covers.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>[
+  {
+    "id": "848e65fa-946f-4796-9d33-9f225381861e",
+    "fileName": "cover.jpg",
+    "url": "https://mangadex.org/covers/manga-id/cover.jpg"
+  }
+]</code></pre>
+        </div>
+    </section>
+
+    <section>
+        <h2>Tags & Lists</h2>
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/tag</span>
+            <div class="description">List all available manga tags/genres.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>[
+  {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "name": {
+      "en": "Thriller"
+    },
+    "description": {},
+    "group": "genre",
+    "version": 1
+  },
+  {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "name": {
+      "en": "Action"
+    },
+    "description": {},
+    "group": "genre",
+    "version": 1
+  },
+  ...
+]</code></pre>
+        </div>
+    </section>
+
+    <section>
+        <h2>Utility</h2>
+        <div class="endpoint">
+            <span class="method get">GET</span><span class="path">/health</span>
+            <div class="description">Check server status.</div>
+            <span class="example-header">Example Output</span>
+            <pre><code>{ "status": "ok" }</code></pre>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MangaDex API Project</p>
+    </footer>
+</body>
+</html>
