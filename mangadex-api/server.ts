@@ -18,7 +18,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const app = express();
-const port = 5000;
+const port = parseInt(process.env.PORT || '5000', 10);
 
 app.set('json spaces', 2);
 app.use(cors());
@@ -188,7 +188,7 @@ app.get('/health', (req, res) => {
     res.json({ status: 'ok' });
 });
 
-app.listen(port, '0.0.0.0', async () => {
-    console.log(`MangaDex API Server running at http://0.0.0.0:${port}`);
+app.listen(port, async () => {
+    console.log(`MangaDex API Server running on port ${port}`);
     await authenticate();
 });

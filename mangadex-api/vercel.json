@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "devCommand": "npx tsx server.ts",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "server.ts": {
+      "memory": 1024,
+      "maxDuration": 60,
+      "runtime": "nodejs20.x"
+    }
+  }
+}
