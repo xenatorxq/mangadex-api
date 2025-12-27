@@ -10,7 +10,7 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.mjs",
       "require": "./dist/index.js"
-    }
+    } //
   },
   "scripts": {
     "lint": "eslint ./src ./scripts --ext .ts,.mjs,.cjs,.js",
