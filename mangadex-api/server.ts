@@ -49,7 +49,7 @@ const authenticate = async () => {
 
 // --- Manga & Chapters ---
 
-// Search & list manga
+// Search & list manga 
 app.get('/manga', async (req, res) => {
     try {
         const results = await Manga.search(req.query as any);
