@@ -8,4 +8,4 @@ module.exports = {
     coveragePathIgnorePatterns: ['LegacyAuthClient', 'testutil'],
     testTimeout: 60000,
     verbose: true,
-};
+}; /**
